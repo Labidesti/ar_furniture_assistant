@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Coral Desk",
+    "description": "A simple and durable wooden desk with white metal legs.",
+    "price": 3500,
+    "image": "assets/images/coral_desk.png"
+  },
+  {
+    "id": 2,
+    "name": "Georgine 3 Chest of Drawer Maple",
+    "description": "Modern chest with 3 drawers, maple finish.",
+    "price": 5200,
+    "image": "assets/images/georgine_3_chest_of_drawer_maple.png"
+  },
+  {
+    "id": 3,
+    "name": "Hamilton Sofa Bed Right Chaise",
+    "description": "Comfortable sofa bed with chaise.",
+    "price": 12500,
+    "image": "assets/images/hamilton_sofa_bed_right_chaise_sofa.png"
+  },
+  {
+    "id": 4,
+    "name": "Reese High Display Cabinet with Wheel",
+    "description": "Tall display cabinet with glass and wheels.",
+    "price": 7800,
+    "image": "assets/images/reese_high_display_cabinet_with_wheel.png"
+  },
+  {
+    "id": 5,
+    "name": "Tripp Display Cabinet",
+    "description": "Slim vertical glass display cabinet, black base.",
+    "price": 6200,
+    "image": "assets/images/tripp_display_cabinet.png"
+  }
+]

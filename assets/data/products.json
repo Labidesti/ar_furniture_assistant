@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Coral Desk",
+    "image": "coral_desk.png",
+    "price": 4999,
+    "unityModel": "Coral_Desk1"
+  },
+  {
+    "id": "2",
+    "name": "Hamilton Sofa Bed",
+    "image": "hamilton_sofa_bed_right_chaise_sofa.png",
+    "price": 15999,
+    "unityModel": "Hamilton_Sofa_Bed_Right_Chaise_Sofa"
+  },
+  {
+    "id": "3",
+    "name": "Tripp Display Cabinet",
+    "image": "tripp_display_cabinet.png",
+    "price": 8999,
+    "unityModel": "Tripp_High_Display_Cabinet"
+  }
+]
